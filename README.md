@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**UBAH777/UBAH777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width: 80%; border-radius: 10px" >
+<th colspan="2" style="font-size: 48px">
+   Here is something about my life on github platform 📈
+</th>
+<tr>
+<td>
+    <img
+        width="88%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=UBAH777&count_private=true&langs_count=10&hide=html&layout=compact&hide_title=true&theme=chartreuse-dark"
+    >
+</td>
+<td>
+    <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=UBAH777&count_private=true&hide=html&show_icons=true&hide_title=true&theme=chartreuse-dark"
+    >
+</td>
+</tr>
+</table>
