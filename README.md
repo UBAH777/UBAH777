@@ -4,7 +4,7 @@
 
 ### Connection list 
 
-More connection sources [here](./connection.md)
+More connection sources [here](./connections.md)
 
 ### General hard skills
 
